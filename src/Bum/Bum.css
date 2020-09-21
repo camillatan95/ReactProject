@@ -1,0 +1,12 @@
+/* global CSS code */
+.Lan{
+   font-size: 20px;
+}
+
+.block{
+   background-color: lightblue;
+   margin-left: 20%;
+   margin-right: 20%;
+   margin-bottom: 30px;
+   padding: 20px;
+}
